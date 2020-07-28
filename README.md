@@ -96,6 +96,15 @@
    </tr>
 </table>
 
+<table width="100%" id="part1-distributed-lock">
+   <tr align="center">
+      <th colspan="6" style="background-color: #96a6ae">Java 分布式锁☕️</th>
+   </tr>
+   <tr>
+      <td><a href="https://juejin.im/post/5bbb0d8df265da0abd3533a5">再有人问你分布式锁，这篇文章扔给他</a></td>
+   </tr>
+</table>
+
 
 <h2 id="part2">Part 2.Java Web</h2>
 
