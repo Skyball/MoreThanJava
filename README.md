@@ -139,7 +139,7 @@
 
 <table width="100%" id="part3-redis">
    <tr align="center">
-      <th colspan="6" style="background-color: #96a6ae">Redis 系列☑️</th>
+      <th colspan="6" style="background-color: #96a6ae" data="875942250">Redis 系列☑️</th>
    </tr>
    <tr>
       <td><a href="https://www.wmyskxz.com/2020/02/28/redis-1-5-chong-ji-ben-shu-ju-jie-gou/">Redis(1)——5种基本数据结构</a></td>
@@ -252,39 +252,4 @@
 - [扫地僧回来了](https://mp.weixin.qq.com/s/dFnkLelQBuGaL_mlMUcpeA)
 - [面向对象圣经](https://mp.weixin.qq.com/s/TfcEzFN3HD3zV8PsjbM2KA)
 
-# 微信
-
-如果有需要联系我的朋友，可以扫描下方二维码添加我的私人微信，我也会拉您进入技术交流群，当然也有 QQ 交流群，您可以备注一下 Github 随时加入：3382693。
-
-**请在添加的时候最好能备注一下您的姓名/了解我的渠道/来意（wmyskxz/Github/商务合作）**
-
-<p align="center">
-  <a href="https://github.com/wmyskxz/MoreThanJava/">
-  	<img src="/images/README/image-20200221180506860.png" height="350" width="350">
-  </a>
-</p>
-
-# 公众号
-
-内容公众号同步更新，有时候不适合发 Github 的东西我也会发在公众号里面，所以请各位大大也扫码关注，支持一波吧
-
-<p align="center">
-  <a href="https://github.com/wmyskxz/MoreThanJava/">
-      <img src="/images/README/image-20200221181715900.png" height="350" width="350">
-  </a>
-</p>
-
-# 投稿
-
-投稿请添加[上方个人微信二维码](#微信)联系，**请备注来意，感谢您的支持！**
-
-# 赞赏
-
-您的支持是我前进最大的动力
-
-<p align="center">
-  <a href="https://github.com/wmyskxz/MoreThanJava/">
-      <img src="/images/README/image-20200221211142279.png" height="350" width="350">
-  </a>
-</p>
 
